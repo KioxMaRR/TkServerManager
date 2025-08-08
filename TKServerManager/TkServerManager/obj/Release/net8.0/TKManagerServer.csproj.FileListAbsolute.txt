@@ -1,0 +1,14 @@
+C:\Users\Parham\source\repos\TKManagerServer\TKManagerServer\bin\Release\net8.0\TKManagerServer.exe
+C:\Users\Parham\source\repos\TKManagerServer\TKManagerServer\bin\Release\net8.0\TKManagerServer.deps.json
+C:\Users\Parham\source\repos\TKManagerServer\TKManagerServer\bin\Release\net8.0\TKManagerServer.runtimeconfig.json
+C:\Users\Parham\source\repos\TKManagerServer\TKManagerServer\bin\Release\net8.0\TKManagerServer.dll
+C:\Users\Parham\source\repos\TKManagerServer\TKManagerServer\bin\Release\net8.0\TKManagerServer.pdb
+C:\Users\Parham\source\repos\TKManagerServer\TKManagerServer\obj\Release\net8.0\TKManagerServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Parham\source\repos\TKManagerServer\TKManagerServer\obj\Release\net8.0\TKManagerServer.AssemblyInfoInputs.cache
+C:\Users\Parham\source\repos\TKManagerServer\TKManagerServer\obj\Release\net8.0\TKManagerServer.AssemblyInfo.cs
+C:\Users\Parham\source\repos\TKManagerServer\TKManagerServer\obj\Release\net8.0\TKManagerServer.csproj.CoreCompileInputs.cache
+C:\Users\Parham\source\repos\TKManagerServer\TKManagerServer\obj\Release\net8.0\TKManagerServer.dll
+C:\Users\Parham\source\repos\TKManagerServer\TKManagerServer\obj\Release\net8.0\refint\TKManagerServer.dll
+C:\Users\Parham\source\repos\TKManagerServer\TKManagerServer\obj\Release\net8.0\TKManagerServer.pdb
+C:\Users\Parham\source\repos\TKManagerServer\TKManagerServer\obj\Release\net8.0\TKManagerServer.genruntimeconfig.cache
+C:\Users\Parham\source\repos\TKManagerServer\TKManagerServer\obj\Release\net8.0\ref\TKManagerServer.dll
